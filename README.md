@@ -9,7 +9,7 @@ https://github.com/normal-computing/fuji-web/assets/1001890/88a2fa12-31d9-4856-b
 
 ## How does it work?
 
-**Please read [our blog post](https://blog.normalcomputing.com/posts/2024-05-22-introducing-fuji-web/fuji-web.html) for a demo video, benchmarks and deep-dive technical overview!**
+**Please read [our blog post](https://www.normalcomputing.com/blog/introducing-fuji-web) for a demo video, benchmarks and deep-dive technical overview!**
 
 ## Installing and Running
 
